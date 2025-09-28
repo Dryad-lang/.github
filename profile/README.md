@@ -28,9 +28,8 @@ Nosso objetivo é criar uma linguagem simples, expressiva e modular, que permita
 
 ## 📌 Repositórios e Recursos
 
-* 🔗 [Documentação oficial](#)
-* 📦 [Oak Package Manager](#)
-* 🛠️ [Ferramentas e exemplos](#)
+* 🔗 [Documentação oficial](https://github.com/Dryad-lang/source/blob/main/manuals/SYNTAX.md)
+
 
 ---
 
