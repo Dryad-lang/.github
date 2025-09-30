@@ -29,6 +29,9 @@ Nosso objetivo é criar uma linguagem simples, expressiva e modular, que permita
 ## 📌 Repositórios e Recursos
 
 * 🔗 [Documentação oficial](https://github.com/Dryad-lang/source/blob/main/manuals/SYNTAX.md)
+* 🔗 [Manual de desenvolvimento](https://github.com/Dryad-lang/source/blob/main/manuals/DEVELOPER_MANUAL.md)
+* 🔗 [Guia de erros](https://github.com/Dryad-lang/source/blob/main/manuals/DRYAD_ERROR_GUIDE.md)
+* 🔗 [Módulos nativos](https://github.com/Dryad-lang/source/blob/main/manuals/NATIVE_MODULES.md)
 
 
 ---
